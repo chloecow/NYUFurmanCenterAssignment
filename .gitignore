@@ -1,0 +1,6 @@
+
+# local datasets (too large for GitHub)
+data/
+*.csv
+*.parquet
+*.gpkg
