@@ -1,14 +1,3 @@
 
-# local datasets (too large for GitHub)
-data/
-*.csv
-*.parquet
-*.gpkg
-
-# local datasets (too large for GitHub)
-data/
-*.csv
-*.parquet
-*.gpkg
-data/Housing_Maintenance_Code_Complaints_and_Problems_20251222.csv
+# large raw dataset
 data/Housing_Maintenance_Code_Complaints_and_Problems_20251222.csv
